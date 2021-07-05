@@ -33,7 +33,10 @@ textarea {
     font: normal 1rem/1.625rem Heebo, "Helvetica Neue", Helvetica, Arial, sans-serif
 }
 
-header>div, main>div, footer>div, main {
+header>div,
+main>div,
+footer>div,
+main {
     max-width: 800px;
     margin: 0 auto;
 }
@@ -127,11 +130,11 @@ footer ul li {
     vertical-align: middle;
 }
 
-footer ul > li:not(:last-of-type) {
+footer ul>li:not(:last-of-type) {
     margin: 0 10px 0 0;
 }
 
-footer > div {
+footer>div {
     margin-bottom: 20px;
 }
 
@@ -145,7 +148,8 @@ article .info a {
     font-weight: 500;
 }
 
-article .info em,article .info i {
+article .info em,
+article .info i {
     font-style: normal;
 }
 
@@ -192,7 +196,8 @@ article p {
     margin: 0 55px 0 0;
 }
 
-.discuss li+li .material-icons,.discuss li+li .material-icons-outlined {
+.discuss li+li .material-icons,
+.discuss li+li .material-icons-outlined {
     order: 2;
     grid-column: 5/span 1;
     margin: -78px 0 0 0;
@@ -222,6 +227,17 @@ article p {
     margin: 10px 0 0 0;
 }
 
-form.search > div article br {
+form.search>div article br {
     display: none;
+}
+
+p>code {
+    font-weight: 600;
+    border-radius: .1875rem;
+    font-size: .975rem;
+    padding: .125rem .3125rem;
+}
+
+article p a {
+    border-bottom: .0625rem dashed;
 }

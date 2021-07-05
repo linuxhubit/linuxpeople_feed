@@ -100,3 +100,8 @@ main article:nth-child(odd) {
     background-color: #d0ffd0;
     color: #32a532;
 }
+
+p>code {
+    background-color: #8f379e;
+    color: #fefefe;
+}
