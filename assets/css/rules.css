@@ -2,4 +2,12 @@
     ::-webkit-scrollbar {
         display: none
     }
+
+    .discuss {
+        display: block;
+    }
+    
+    .discuss li+li {
+        border-left: 0;
+    }
 }
