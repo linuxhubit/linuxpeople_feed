@@ -10,10 +10,10 @@ search_field = document.querySelector("header input[type='search']"),
 var taglist_tmp = [];
 var posts = [];
 
-fetch('https://linuxhub.it/search.json')
+fetch('https://feed.linuxpeople.org/search.json')
     .then(res => res.json())
     .then((posts) => {
-        console.info("linux/hub Posts index found.");
+        console.info("linuepeople posts index found.");
 
         function search() 
         {
@@ -43,7 +43,7 @@ fetch('https://linuxhub.it/search.json')
 
             regex_string = `${regex_string}.*`;
 
-            for (var i=0 ; i < feeds.length ; i++)
+            for (var i=0 ; i < posts.length ; i++)
             {
                 let matches = posts[i]["title"].toLowerCase().match(regex_string);
                 if (matches != null) 
@@ -69,7 +69,7 @@ fetch('https://linuxhub.it/search.json')
     })
     .catch(err => 
     {
-        console.error("Failed to fetch linux/hub Posts index!");
+        console.error("Failed to fetch linuxpeople posts index!");
         throw err
     });
 

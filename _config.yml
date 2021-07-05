@@ -1,13 +1,13 @@
 title: linuxpeople feed
 description: Repository feed del canale Telegram @linuxpeople_feed
-author: linuxhub.it Team
+author: feed.linuxpeople.org Team
 email: send@mirko.pm
-url: https://linuxhub.it
+url: https://feed.linuxpeople.org
 
 assets: /assets
 uploads: /uploads
 
-permalink: /feeds/:title/
+permalink: /posts/:title/
 markdown: kramdown
 
 paginate: 5
@@ -20,9 +20,9 @@ defaults:
       layout: "default"
   - scope:
       path: ""
-      type: "feeds"
+      type: "posts"
     values:
-      layout: "feed"
+      layout: "post"
 
 navigation:
     - link: "/"

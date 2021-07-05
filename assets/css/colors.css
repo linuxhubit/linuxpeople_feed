@@ -1,0 +1,102 @@
+::-webkit-scrollbar-track {
+    border: 7px solid transparent
+}
+
+::-webkit-scrollbar-track:hover {
+    background-color: #8d8d8d1a
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #616161
+}
+
+::-webkit-scrollbar-thumb:window-inactive {
+    background-color: #949699
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #191919
+}
+
+header {
+    background-color: #282a36;
+}
+
+a {
+    color: #8a0353;
+}
+
+header,
+form.search input[type="search"],
+form.search input[type="search"]::placeholder {
+    color: #f2f2f2
+}
+
+form.search input[type="search"] {
+    background-color: #64656b
+}
+
+form.search input[type="search"]:hover {
+    background-color: #727379
+}
+
+form.search input[type="search"]:active,
+form.search input[type="search"]:focus {
+    background-color: #ffffff;
+    color: initial
+}
+
+form.search input[type="search"]:active::placeholder,
+form.search input[type="search"]:focus::placeholder {
+    color: initial
+}
+
+header a {
+    color: #ff93d1;
+}
+
+form.search>div article:hover {
+    background-color: #24252d;
+}
+
+main article:nth-child(odd) {
+    background: #f1f1f2;
+}
+
+.discuss li+li {
+    border-left-color: #7b7b7b3b;
+}
+
+.tag.edit {
+    color: #8a0353;
+}
+
+.tag.trick {
+    background-color: #d0ffd0;
+    color: #32a532;
+}
+
+.tag.cherry {
+    background-color: #ffd0e4;
+    color: #a5326b;
+}
+
+.tag.downloads {
+    background-color: #ffe1d0;
+    color: #a57732;
+}
+
+.tag.batch {
+    background-color: #d0ddff;
+    color: #325aa5;
+}
+
+.tag.know {
+    background-color: #d0ffd0;
+    color: #32a532;
+}
+
+.tag.fix {
+    background-color: #d0ffd0;
+    color: #32a532;
+}

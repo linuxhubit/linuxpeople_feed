@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+{% assign lght = page.url | size | minus: 1 %}
+
+<div>
+    <article itemscope itemtype="https://schema.org/NewsArticle" class="hasSummary">
+        <meta itemprop="image" content="https://feed.linuxpeople.org/storage/linuxhub.png" hidden />
+        <h1 itemprop="headline">{{ page.title }}</h1>
+        <span class="info">
+            <em itemprop="publisher" itemscope itemtype="https://schema.org/Organization" hidden>
+                <span itemprop="name">linux/hub</span>
+                <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                    <meta itemprop="url" content="https://feed.linuxpeople.org/storage/brand.png" />
+                </span>
+            </em>
+            Scritto da
+            <em itemprop="author" itemscope itemtype="https://schema.org/Person">
+                <a href="//github.com/{{ page.author_github }}" target="_blank">
+                    <span itemprop="name">{{ page.author }}</span>
+                </a>
+            </em> il
+            <em itemprop="datePublished" content="{{ page.date }}">
+                <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%a, %b %e, %Y" }}</time>
+            </em>
+        </span>
+        <div class="tags">
+            <div class="tag edit">
+                <a
+                    href="https://github.com/linuxhubit/feed.linuxpeople.org/blob/main/_posts/{{ page.date | date:'%Y-%m-%d' }}-{{ page.url | truncate: lght,'' | replace: '/articles/', ''}}.md">
+                    <span class="material-icons-outlined"> edit </span> 
+                    Edit on GitHub</a>
+            </div>
+            {% for tag in page.tags %}
+                {% if tag == "trick" %}
+                    <div class="tag {{ tag }}">❇️ Trucco del giorno</div>
+                {% else if tag == "cherry" %}
+                    <div class="tag {{ tag }}">🍒 Cherry Bin</div>
+                {% else if tag == "downloads" %}
+                    <div class="tag {{ tag }}">🛍 Consigli per i download</div>
+                {% else if tag == "batch" %}
+                    <div class="tag {{ tag }}">💠 Finestre Batch</div>
+                {% else if tag == "know" %}
+                    <div class="tag {{ tag }}">💣 Lo sapevi che</div>
+                {% else if tag == "fix" %}
+                    <div class="tag {{ tag }}">⚒ How to fix</div>
+                {% else %}
+                    <div class="tag {{ tag }}">{{ tag }}</div>
+                {% endif %}
+            {% endfor %}
+        </div>
+        <div>{{ content }}</div>
+    </article>
+
+    <ul class="discuss">
+        <li>
+            <span class="material-icons-outlined">question_answer</span>
+            <div>
+                <h2>Community</h2>
+                <p>Discuti questo post con la nostra community Telegram.</p>
+            </div>
+        </li>
+        <li>
+            <span class="material-icons-outlined">campaign</span>
+            <div>
+                <h2>Canale</h2>
+                <p>Questo e altri post sono nel nostro canale Telegram.</p>
+            </div>
+        </li>
+    </ul>
+</div>
+
+<script src="/assets/js/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
