@@ -221,3 +221,7 @@ article p {
 .tags {
     margin: 10px 0 0 0;
 }
+
+form.search > div article br {
+    display: none;
+}
