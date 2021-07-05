@@ -1,0 +1,28 @@
+---
+title: Guide sul mondo Linux e Open source
+layout: default
+---
+
+{% assign posts = site.posts | sort: "date" | sort: "updated" | reverse %}
+
+<h1 style="display: none;">{{ page.title }}</h1>
+<div>
+    {% for post in paginator.posts %}
+        {% include posts-listing.html post=post %}
+    {% endfor %}
+
+    {% if paginator.total_pages > 1 %}
+        <ol>
+            {% if paginator.previous_page %}
+                <li>
+                    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Nuovi articoli</a>
+                </li>
+            {% endif %}
+            {% if paginator.next_page %}
+                <li>
+                    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Articoli passati</a>
+                </li>
+        {% endif %}
+        </ol>
+    {% endif %}
+</div>

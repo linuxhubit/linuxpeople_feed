@@ -1,0 +1,14 @@
+---
+layout: none
+---
+[
+  {% for post in site.posts %}
+    {
+      "title"    : {{ feed.title | escape | jsonify }},
+      "tags"     : "{{ feed.tags | join: ', ' }}",
+      "excerpt"  : {{ feed.content | strip_html | truncatewords: 32 | jsonify}},
+      "url"      : "{{ site.baseurl }}{{ feed.url }}",
+      "date"     : "{{ feed.date }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

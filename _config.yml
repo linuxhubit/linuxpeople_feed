@@ -1,0 +1,38 @@
+title: linuxpeople feed
+description: Repository feed del canale Telegram @linuxpeople_feed
+author: linuxhub.it Team
+email: send@mirko.pm
+url: https://linuxhub.it
+
+assets: /assets
+uploads: /uploads
+
+permalink: /feeds/:title/
+markdown: kramdown
+
+paginate: 5
+paginate_path: "/:num/"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "feeds"
+    values:
+      layout: "feed"
+
+navigation:
+    - link: "/"
+      name: Home
+    - link: "https://t.me/linuxpeople"
+      name: Community Telegram
+    - link: "https://linuxpeople.org"
+      name: "linuxpeople"
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
