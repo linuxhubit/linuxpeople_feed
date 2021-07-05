@@ -1,7 +1,7 @@
 ---
 title: printenv
 description: "Stampa di tutte le variabili d'ambiente"
-date: 2021-07-05 21:18
+date: 2021-07-05 21:25
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
