@@ -32,23 +32,21 @@ layout: default
                     <span class="material-icons-outlined"> edit </span> 
                     Edit on GitHub</a>
             </div>
-            {% for tag in page.tags %}
-                {% if tag == "trick" %}
-                    <div class="tag {{ tag }}">❇️ Trucco del giorno</div>
-                {% else if tag == "cherry" %}
-                    <div class="tag {{ tag }}">🍒 Cherry Bin</div>
-                {% else if tag == "downloads" %}
-                    <div class="tag {{ tag }}">🛍 Consigli per i download</div>
-                {% else if tag == "batch" %}
-                    <div class="tag {{ tag }}">💠 Finestre Batch</div>
-                {% else if tag == "know" %}
-                    <div class="tag {{ tag }}">💣 Lo sapevi che</div>
-                {% else if tag == "fix" %}
-                    <div class="tag {{ tag }}">⚒ How to fix</div>
-                {% else %}
-                    <div class="tag {{ tag }}">{{ tag }}</div>
-                {% endif %}
-            {% endfor %}
+            {% if page.tag == "trick" %}
+                <div class="tag {{ page.tag }}">❇️ Trucco del giorno</div>
+            {% else if page.tag == "cherry" %}
+                <div class="tag {{ page.tag }}">🍒 Cherry Bin</div>
+            {% else if page.tag == "downloads" %}
+                <div class="tag {{ page.tag }}">🛍 Consigli per i download</div>
+            {% else if page.tag == "batch" %}
+                <div class="tag {{ page.tag }}">💠 Finestre Batch</div>
+            {% else if page.tag == "know" %}
+                <div class="tag {{ page.tag }}">💣 Lo sapevi che</div>
+            {% else if page.tag == "fix" %}
+                <div class="tag {{ page.tag }}">⚒ How to fix</div>
+            {% else %}
+                <div class="tag {{ page.tag }}">{{ page.tag }}</div>
+            {% endif %}
         </div>
         <div>{{ content }}</div>
     </article>

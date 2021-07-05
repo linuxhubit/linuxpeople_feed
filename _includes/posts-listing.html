@@ -25,7 +25,7 @@
         </span>
         <p>{{ post.content | strip_html | truncatewords: 32 }}…</p>
         <div>
-            {% for tag in post.tags %}
+            {% for tag in post.tag %}
                 {% if tag == "trick" %}
                     <div class="tag {{ tag }}">❇️ Trucco del giorno</div>
                 {% else if tag == "cherry" %}
