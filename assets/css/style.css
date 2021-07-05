@@ -58,6 +58,7 @@ header {
 form.search input[type="search"] {
     width: calc(100% - 40px);
     padding: 10px 20px;
+    box-shadow: 0 1px 3px rgb(0 0 0 / 10%), 0 5px 10px rgb(0 0 0 / 6%);
 }
 
 input[type="text"],
