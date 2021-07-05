@@ -28,15 +28,15 @@
             {% for tag in post.tag %}
                 {% if tag == "trick" %}
                     <div class="tag {{ tag }}">❇️ Trucco del giorno</div>
-                {% else if tag == "cherry" %}
+                {% elsif tag == "cherry" %}
                     <div class="tag {{ tag }}">🍒 Cherry Bin</div>
-                {% else if tag == "downloads" %}
+                {% elsif tag == "downloads" %}
                     <div class="tag {{ tag }}">🛍 Consigli per i download</div>
-                {% else if tag == "batch" %}
+                {% elsif tag == "batch" %}
                     <div class="tag {{ tag }}">💠 Finestre Batch</div>
-                {% else if tag == "know" %}
+                {% elsif tag == "know" %}
                     <div class="tag {{ tag }}">💣 Lo sapevi che</div>
-                {% else if tag == "fix" %}
+                {% elsif tag == "fix" %}
                     <div class="tag {{ tag }}">⚒ How to fix</div>
                 {% else %}
                     <div class="tag {{ tag }}">{{ tag }}</div>

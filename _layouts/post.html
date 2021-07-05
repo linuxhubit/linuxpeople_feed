@@ -34,15 +34,15 @@ layout: default
             </div>
             {% if page.tag == "trick" %}
                 <div class="tag {{ page.tag }}">❇️ Trucco del giorno</div>
-            {% else if page.tag == "cherry" %}
+            {% elsif page.tag == "cherry" %}
                 <div class="tag {{ page.tag }}">🍒 Cherry Bin</div>
-            {% else if page.tag == "downloads" %}
+            {% elsif page.tag == "downloads" %}
                 <div class="tag {{ page.tag }}">🛍 Consigli per i download</div>
-            {% else if page.tag == "batch" %}
+            {% elsif page.tag == "batch" %}
                 <div class="tag {{ page.tag }}">💠 Finestre Batch</div>
-            {% else if page.tag == "know" %}
+            {% elsif page.tag == "know" %}
                 <div class="tag {{ page.tag }}">💣 Lo sapevi che</div>
-            {% else if page.tag == "fix" %}
+            {% elsif page.tag == "fix" %}
                 <div class="tag {{ page.tag }}">⚒ How to fix</div>
             {% else %}
                 <div class="tag {{ page.tag }}">{{ page.tag }}</div>
