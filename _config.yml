@@ -27,6 +27,8 @@ defaults:
 navigation:
     - link: "/"
       name: Home
+    - link: "https://t.me/linuxpeople_feed"
+      name: Canale Telegram
     - link: "https://t.me/linuxpeople"
       name: Community Telegram
     - link: "https://linuxpeople.org"
