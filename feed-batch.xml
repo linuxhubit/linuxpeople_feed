@@ -15,7 +15,9 @@ layout: null
             {% if post.tag == "batch" %}
                 <item>
                     <title>{{ post.title }}</title>
-                    <description>{{ post.description }}</description>
+                    <description type="html">
+                        <![CDATA[ {{ post.content }} ]]>
+                    </description>
                     <link>{{ site.url }}{{ post.url }}</link>
                     <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
                     <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
