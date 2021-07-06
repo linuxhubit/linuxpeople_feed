@@ -1,5 +1,5 @@
 ---
-title: 'Usare makefile impropriamete'
+title: 'Usare makefile impropriamente'
 description: "conoscete il makefile? ecco come usarlo impropriamente"
 date: 2021-07-06 17:40
 layout: post
