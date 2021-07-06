@@ -1,7 +1,7 @@
 ---
 title: 'Usare makefile impropriamete'
 description: "conoscete il makefile? ecco come usarlo impropriamente"
-date: 2021-07-06 15:31
+date: 2021-07-06 17:40
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
