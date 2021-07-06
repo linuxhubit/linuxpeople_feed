@@ -16,7 +16,7 @@ layout: null
                 <item>
                     <title>{{ post.title }}</title>
                     <description type="html">
-                        <![CDATA[ {{ post }} ]]>
+                        <![CDATA[ {{ post.content }} ]]>
                     </description>
                     <link>{{ site.url }}{{ post.url }}</link>
                     <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
