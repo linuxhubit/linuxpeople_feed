@@ -8,7 +8,7 @@ author_github: PsykeDady
 tag: cherry
 ---
 
-Potete attivare tra i [plugin di oh-my-zsh](https://feed.linuxpeople.org/posts/cherry/) una funzione per fare autofetch di un repository appena entrate nella cartella. Come? aprite il vostro **.zshrc** e aggiungente tra i *plugin git* `git-auto-fetch`.
+Potete attivare tra i [plugin di oh-my-zsh](https://feed.linuxpeople.org/posts/oh-my-god-zsh/) una funzione per fare autofetch di un repository appena entrate nella cartella. Come? aprite il vostro **.zshrc** e aggiungente tra i *plugin git* `git-auto-fetch`.
 Così: 
 ```bash
 plugins=(git git-auto-fetch)
