@@ -1,7 +1,7 @@
 ---
 title: 'Usare jq'
 description: "fare il parsing di json da shell"
-date: 2021-07-08 11:00
+date: 2021-07-08 15:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
