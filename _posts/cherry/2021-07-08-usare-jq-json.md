@@ -8,6 +8,8 @@ author_github: PsykeDady
 tag: cherry
 ---
 
+[jq parte 2](https://feed.linuxpeople.org/posts/usare-jq-json-2/)
+
 Se avete letto come [inviare richieste post con CURL](https://feed.linuxpeople.org/posts/inviare-richieste-post) allora vi potrebbe interessare sapere come farne il parsing!
 Per fare il parsing di un json da bash utilizziamo `jq` in pipeline. Così: 
 ```bash
