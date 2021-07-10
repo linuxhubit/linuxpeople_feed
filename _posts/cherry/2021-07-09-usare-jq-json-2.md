@@ -8,7 +8,7 @@ author_github: PsykeDady
 tag: cherry
 ---
 
-[jq parte 1](https://feed.linuxpeople.org/posts/usare-jq-json/)
+[jq parte 1](https://feed.linuxpeople.org/posts/usare-jq-json/) [jq parte 3](https://feed.linuxpeople.org/posts/usare-jq-json-3/)
 
 Se avete seguito la ciliegina su come usare jq vi può interessare a maggior ragione sapere come comportarvi se un json presenta anche degli array o oggetti innestati. 
 Supponiamo il seguente json: 
