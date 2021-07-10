@@ -1,7 +1,7 @@
 ---
 title: 'Usare jq parte 3'
 description: "Usare jq per analizzare json con oggetti innestati!"
-date: 2021-07-10 11:00
+date: 2021-07-10 15:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
