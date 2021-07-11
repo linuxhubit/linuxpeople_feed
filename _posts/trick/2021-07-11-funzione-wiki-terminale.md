@@ -1,5 +1,5 @@
 ---
-title: 'Visitare la wiki da terminal'
+title: 'Visitare la wiki da terminale'
 description: "crea la tua funzione per visitare wiki da terminale"
 date: 2021-07-11 16:00
 layout: post
@@ -21,7 +21,7 @@ function wiki() {
 }
 ```
 
-Quindi creiamo un alias che, dato il risultato, preleva il link e lo manda su un browser da noi scelto, ad esempio [lynx]() 
+Quindi creiamo un alias che, dato il risultato, preleva il link e lo manda su un browser da noi scelto, ad esempio [lynx](https://feed.linuxpeople.org/posts/nagivare-con-lynx/) 
 
 ```bash
 alias wikis='lynx $(wiki nvidia | jq -r ".[3][0]") '

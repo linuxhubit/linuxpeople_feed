@@ -39,7 +39,7 @@ E le opzioni
 
 Per gestire la posizione dei file di cookie sul vostro file system
 
-*Ed ora il Trivia* con il trucco di [pdftohtml]()  
+*Ed ora il Trivia* con il trucco di [pdftohtml](https://feed.linuxpeople.org/posts/nagivare-con-lynx/)  
 Se dopo aver trasformato un pdf in html date:
 `lynx nomepdf.html`
 

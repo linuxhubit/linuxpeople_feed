@@ -12,7 +12,7 @@ Trasformate un pdf in una struttura html con **pdftohtml**
 
 `pdftohtml nomepdf.pdf`
 
-Anche questo tool potete trovarlo con poppler, come in questo [trucco del giorno]()
+Anche questo tool potete trovarlo con poppler, come in questo [trucco del giorno](https://feed.linuxpeople.org/posts/aprire-pdf-terminale/)
 
 Beh che ne fate di un pdf in formato html ? 
 😏 A domani...
