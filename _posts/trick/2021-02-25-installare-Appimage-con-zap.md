@@ -16,7 +16,7 @@ https://github.com/srevinsaju/zap
 Installatelo così :
  `curl -fsSL https://git.io/zapinit | bash`
 
-Aggiungete al vostro [bashrc]() il path di zap: 
+Aggiungete al vostro [bashrc](https://feed.linuxpeople.org/posts/bashrc-zshrc-fishconfig/) il path di zap: 
  `export PATH=$PATH:~/.bin:~/.local/bin`
 
 Ora per installare un app ci sono due modi, il primo è semplice:
