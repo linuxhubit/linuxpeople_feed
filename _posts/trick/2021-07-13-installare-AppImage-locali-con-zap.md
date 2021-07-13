@@ -11,12 +11,7 @@ tag: trick
 [zap parte 1](https://feed.linuxpeople.org/posts/installare-Appimage-con-zap/)  
 Un altra bella cosa che potete fare con Zap è installare e quindi tenere traccia di un AppImage locale 
 
-Esistono due modi: 
-```bash
-zap install nomeapp file:///percorso/a/app/Nome.AppImage
-```
-
-Il secondo 
+Ecco come:
 ```bash
 zap install --from file:///percorso/a/app/Nome.AppImage nome-app
 ```
