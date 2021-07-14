@@ -21,7 +21,7 @@ wget https://gitweb.dragonflybsd.org/dragonfly.git/blob_plain/1975d09eeb449df119
 Quindi prepariamo il pacchetto: 
 ```bash
 gzip -f9 covid.1
-26   sed -i -E 's/__unused/__attribute__((unused))/g' covid.c
+sed -i -E 's/__unused/__attribute__((unused))/g' covid.c
 
 #compiliamo
 gcc -o covid covid.c
