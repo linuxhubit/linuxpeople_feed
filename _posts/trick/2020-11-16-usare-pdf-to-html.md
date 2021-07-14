@@ -1,7 +1,7 @@
 ---
 title: 'Usare pdftohtml'
 description: "usare pdftohtml per trasformare pdf in html"
-date: aaaa-mm-gg 11:00
+date: 2020-11-16 11:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
