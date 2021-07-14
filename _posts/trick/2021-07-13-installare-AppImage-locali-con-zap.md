@@ -1,7 +1,7 @@
 ---
 title: 'Installare AppImage locali con Zap'
 description: "descrizione post"
-date: 2021-07-21 15:00
+date: 2021-07-13 15:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
