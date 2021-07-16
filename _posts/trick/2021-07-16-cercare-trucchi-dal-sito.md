@@ -20,7 +20,7 @@ function cercaTrucchi(){
         length=$(echo -nE "$trucchi" | jq length)
 
         for i in $(seq 0 $((length-1))); do
-                url="feed.linuxpeople.org"$(echo -nE "$trucchi" | jq ".[$i].url" | cut -d '"' -f 2);
+                url="https://feed.linuxpeople.org"$(echo -nE "$trucchi" | jq ".[$i].url" | cut -d '"' -f 2);
                 if lynx $url --dump | grep -q "$1"; then
                         titolo=$(echo -nE "$trucchi" | jq ".[$i].title")
                         echo "$titolo → $url"
