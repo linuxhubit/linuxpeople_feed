@@ -139,6 +139,10 @@ footer>div {
     margin-bottom: 20px;
 }
 
+.home article p {
+    overflow-wrap: break-word;
+}
+
 article .info {
     display: block;
     margin: 2px 0 0;
