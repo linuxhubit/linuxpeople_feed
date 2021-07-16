@@ -37,3 +37,6 @@ Lo script vi risponderà con i titoli e i link dei trucchi del giorno corrispond
 > PS :  
 >  
 > Cerca anche dentro gli articoli, non solo i titoli!
+
+
+Purtroppo ancora non abbiamo inserito nel sito tutti i vecchi trucchi! ma presto l'archivio sarà completo U.U
