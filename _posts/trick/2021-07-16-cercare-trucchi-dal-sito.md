@@ -11,7 +11,7 @@ tag: trick
 Avete già visto il nostro bellissimo nuovissimo sito [feed.linuxpeople.org](feed.linuxpeople.org)?? No? 
 ANDATE SUBITO!!!
 
-Ma ora, quanti trucchi del giorno parlano di un argomento X? e soprattutto come li fate a trovare? 
+Ma ora, quanti trucchi del giorno parlano di un argomento X? E soprattutto, come fate a trovarli? 
 Beh ecco a voi una funzioncina bash per cercarli senza spaccarvi troppo i neuroni a navigare sul sito!
 
 ```bash
