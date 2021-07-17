@@ -8,10 +8,10 @@ author_github: PsykeDady
 tag: trick
 ---
 
-Avete già visto il nostro bellissimo nuovissimo sito [feed.linuxpeople.org](feed.linuxpeople.org) ?? No ? 
-ANDATE SUBITO!!!! 
+Avete già visto il nostro bellissimo nuovissimo sito [feed.linuxpeople.org](feed.linuxpeople.org)?? No? 
+ANDATE SUBITO!!!
 
-Ma ora, quanti trucchi del giorno parlano di un argomento X ? e soprattutto come li fate a trovare ? 
+Ma ora, quanti trucchi del giorno parlano di un argomento X? E soprattutto, come fate a trovarli? 
 Beh ecco a voi una funzioncina bash per cercarli senza spaccarvi troppo i neuroni a navigare sul sito!
 
 ```bash
@@ -39,4 +39,4 @@ Lo script vi risponderà con i titoli e i link dei trucchi del giorno corrispond
 > Cerca anche dentro gli articoli, non solo i titoli!
 
 
-Purtroppo ancora non abbiamo inserito nel sito tutti i vecchi trucchi! ma presto l'archivio sarà completo U.U
+Purtroppo ancora non abbiamo inserito nel sito tutti i vecchi trucchi! Ma presto l'archivio sarà completo U.U
