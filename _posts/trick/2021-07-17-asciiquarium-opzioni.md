@@ -11,8 +11,8 @@ tag: trick
 [installazione asciiquarium](https://feed.linuxpeople.org/posts/acquario-per-bash/)
 
 Se avete installato asciiquarium molto probabilmente vi starete chiedendo cos'altro ci potete fare di bello... beh ha alcune piccole opzioni che potete sfruttaare
-Purtroppo non avendo un man ne un help l'unico modo per scoprirle è leggerne il codice o andare sul loro github, quindi ve le espongo qui per facilitarvi. A software avviato potete:
+Purtroppo non avendo un man né un help l'unico modo per scoprirle è leggerne il codice o andare sul loro github, quindi ve le espongo qui per facilitarvi. A software avviato potete:
 
-premere "p" per mettere pausa ed ammirare ad esempio un gran bello squalo che passa 😎 
-premere "r" per riavviarlo 
-premere "q" per stopparlo
+premere **"p"** per mettere pausa ed ammirare ad esempio un gran bello squalo che passa 😎 
+premere **"r"** per riavviarlo 
+premere **"q"** per stopparlo
