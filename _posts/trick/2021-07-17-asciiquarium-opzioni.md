@@ -1,7 +1,7 @@
 ---
-title: 'Titolo'
-description: "descrizione post"
-date: aaaa-mm-gg 11:00
+title: 'Opzioni di Asciiquarium'
+description: "avete provato le opzioni di asciiquarium?"
+date: 2021-07-17 11:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
