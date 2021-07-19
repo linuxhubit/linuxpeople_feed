@@ -36,3 +36,7 @@ cercaArticoli 'ssh'
 
 
 Presto potrebbe arrivare una sorpresina 😏
+
+> NOTA BENE: 
+> 
+> potrebbe richiedere molto tempo l'esecuzione del comando poiché la lista degli articoli è lunga.
