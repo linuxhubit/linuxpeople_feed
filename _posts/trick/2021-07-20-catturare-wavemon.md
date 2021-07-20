@@ -9,7 +9,7 @@ tag: trick
 ---
 
 
-Puoi controllare segnale della connessione, pacchetti ricevuti, banda che stai consumando e altri parametri usando quei piccoli mostriciattoli tascabili che stanno nelle sfere bianche e rosse. I POKE-. 
+Puoi controllare segnale della connessione wifi, pacchetti ricevuti, banda che stai consumando e altri parametri usando quei piccoli mostriciattoli tascabili che stanno nelle sfere bianche e rosse. I POKE-. 
 Ah no scusate, intendevo che potete farlo con `wavemon`, il software!
 Installalo e aprilo scrivendo direttamnete il nome e premendo invio! 
 
