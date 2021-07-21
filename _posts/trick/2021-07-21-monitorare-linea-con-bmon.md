@@ -13,3 +13,5 @@ Installatelo con il vostro package manager ed avviatelo:
 `bmon`
 
 Questo strumento monitora anche la vostra eth :D per avere ulteriori dettagli premete `d` mentre il programma è attivo
+Con `i` avrete accesso ad altri dettagli ancora!
+Grazie **Martin** per la precisazione :D
