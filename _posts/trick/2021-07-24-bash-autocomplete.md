@@ -1,5 +1,5 @@
 ---
-title: 'Aggiugere opzioni all&sbquo; autocompletamento'
+title: 'Aggiugere opzioni all&lsquo; autocompletamento'
 description: "aggiungere opzioni all'autocompletamento tab"
 date: 2021-07-24 15:00
 layout: post
