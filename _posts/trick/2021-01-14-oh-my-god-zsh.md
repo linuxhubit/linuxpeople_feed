@@ -40,5 +40,4 @@ avviare e cambiare la shell per configurarla.
 Ed una volta pronta cambiare la shell predefinita con [questo trucco](https://t.me/linuxpeople_feed/543) 
 
 
-Potrebbero essere necessari del caratteri particolari, installate i nerdfont, ad esempio i [FURA:]
-(https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)
+Potrebbero essere necessari del caratteri particolari, installate i nerdfont, ad esempio i [FURA:](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)
