@@ -13,11 +13,11 @@ ecco a voi due esempi:
 
 ```bash
 ## un video da reddit
-youtube-dl 'https://www.reddit.com/r/OnePiece/comments/orahls/tomflamingo_vs_monkey_d_jerry_fan_animation/?utm_medium=android_app&utm_source=share>'
+youtube-dl 'https://www.reddit.com/r/NOMECOMUNITY/comments/UTENTE/LNKVIDEO'
 
 
 ## un video da twitter
-youtube-dl 'https://twitter.com/_IAmCrypto/status/1418270482483318787?s=20'
+youtube-dl 'https://twitter.com/NOMEUTENTE/LINKPOST'
 ```
 
 
