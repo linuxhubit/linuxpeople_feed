@@ -26,7 +26,7 @@ done
 
 mkdir "$nome"
 
-while (( #? > 0 )); do 
+while (( $# > 0 )); do 
 	mv "$1" "$nome"
 	shift
 done
