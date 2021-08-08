@@ -8,7 +8,7 @@ author_github: PsykeDady
 tag: trick
 ---
 
-Mi piace tantissimo automatizzare quello che faccio, creare comnadi che giornalmente riproducono quelle cose che son solito fare manualmente in determiniti ambiti della giornata. Ad esempio scrivere un trucco del giorno! :D 
+Mi piace tantissimo automatizzare quello che faccio, creare comandi che giornalmente riproducono quelle cose che son solito fare manualmente in determinati ambiti della giornata. Ad esempio scrivere un trucco del giorno! :D 
 
 Per questo cerco sempre meccanismi per farli con poche mosse, uno di questi è creare dei menu contestuali per i nostri file manager, abbiamo già parlato di quello di dolphin ad esempio, oggi vediamo per nautilus!
 Nautilus è il file manager che vi ritrovate se avete gnome o distro simili, scriviamo il nostro script bash, ad esempio uno che crei una cartella con degli elementi selezionati: 
@@ -38,7 +38,7 @@ mv creaSelezione.sh $HOME/.local/share/nautilus/scripts
 ```
 
 Se non esiste il percorso creiamolo noi! 
-ora rendiamo eseugibile lo script: 
+ora rendiamo eseguibile lo script: 
 ```bash
 chmod +x $HOME/.local/share/nautilus/scripts/creaSelezione.sh
 ```
