@@ -24,7 +24,7 @@ for i in $(seq 0 9); do
 done
 ```
 
-Per utilizzarne uno, ad esempio stamparlo, dobbiamo ricchiuderne l'indice tra parentesi quadre, e tutto poi tra parentesi graffe, ecco come: 
+Per utilizzarne uno, ad esempio stamparlo, dobbiamo racchiuderne l'indice tra parentesi quadre, e tutto poi tra parentesi graffe, ecco come: 
 ```bash
 echo ${vettore[1]}
 ```
