@@ -8,6 +8,8 @@ author_github: PsykeDady
 tag: cherry
 ---
 
+[array con bash pt 2](https://feed.linuxpeople.org/posts/array-con-bash-pt2/)
+
 In bash avete anche i vettori, sapevate? Vediamo come si usano. 
 Se siete pratici della programmazione sapete benissmo che i vettori permettono di portarsi più valori in giro, ecco perché è importante saperli sfruttare al meglio! 
 In bash un vettore si dichiara così: 
