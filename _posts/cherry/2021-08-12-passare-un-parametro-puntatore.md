@@ -11,7 +11,7 @@ tag: cherry
 Su bash tutti i passaggi avvengono per valore, cioè se richiamate una funzione questa si preleverà il valore del parametro passato. 
 Ma ci son casi in cui è comodo avere il riferimento. Come fare ?
 Supponiamo di avere un vettore: 
-``'bash
+```bash
 declare -a vettore
 vettore[1]=1
 vettore[2]=123
