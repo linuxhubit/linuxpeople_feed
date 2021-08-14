@@ -8,7 +8,7 @@ author_github: PsykeDady
 tag: cherry
 ---
 
-[Array parte 1](https://feed.linuxpeople.org/posts/array-con-bash/)  
+[Array parte 1](https://feed.linuxpeople.org/posts/array-con-bash/)  [Array parte 3]((https://feed.linuxpeople.org/posts/array-con-bash-pt3/))
 
 Generalmente in bash potete eliminare il valore di una variabile con l'istruzione `unset`
 ```bash

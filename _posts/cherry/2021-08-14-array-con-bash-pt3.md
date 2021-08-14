@@ -1,18 +1,7 @@
 ---
-title: 'Titolo'
-description: "descrizione post"
-date: aaaa-mm-gg 11:00
-layout: post
-author: Davide Galati (in arte PsykeDady)
-author_github: PsykeDady
-tag: trick
----
-
-cat: 2021-08-11-array-con-bash.md: File o directory non esistente
----
-title: 'Array in bash'
+title: 'Array in bash pt 3'
 description: "operare con i vettori in bash"
-date: 2021-08-10 15:00
+date: 2021-08-14 12:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
