@@ -28,5 +28,5 @@ zap install-gh https://github.com/bottlesdevs/Bottles
 flatpak install bottles
 ```
 
-Ma anche con AUR per gli archilinuxiani (pacchetto `bottles-git`) con con **snap** per gli ubuntuisti!
+Ma anche con AUR per gli archilinuxiani (pacchetto `bottles-git` o `bottles`) o con **snap** per gli ubuntuisti!
 
