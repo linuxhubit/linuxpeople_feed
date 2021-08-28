@@ -1,7 +1,7 @@
 ---
 title: 'Aggiornare la data con timedatectl'
 description: "mantenere la data aggiornata con tramite connessione"
-date: 20211-08-26 16:30
+date: 2021-08-26 16:30
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
