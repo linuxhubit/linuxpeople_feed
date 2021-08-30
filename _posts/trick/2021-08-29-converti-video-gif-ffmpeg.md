@@ -10,5 +10,6 @@ tag: trick
 
 Ecco a voi come convertire facilmente un video in gif usando ffmpeg! 
 
+```bash
 ffmpeg -i percorso/video  percorsogif.gif
-
+```
