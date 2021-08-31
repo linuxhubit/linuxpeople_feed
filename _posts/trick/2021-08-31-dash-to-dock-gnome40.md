@@ -25,4 +25,6 @@ make
 make install
 ```
 
+E riavviate il pc! 
+
 Se vi da qualche errore o warning, installate ciò che vi viene richiesto! 
