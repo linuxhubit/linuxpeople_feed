@@ -1,6 +1,6 @@
 ---
-title: "Aprire più app in GNOME senza ri-aprire l'Overview"
-description: "Aprire più di una applicazione dalla dock/menu di GNOME senza ri-aprire l'Overview"
+title: "Lanciare più app in GNOME senza ri-aprire l'Overview"
+description: "Lanciare più di una applicazione dalla dock/menu di GNOME senza ri-aprire l'Overview"
 date: 2021-10-01 18:51
 layout: post
 author: Mirko Brombin
