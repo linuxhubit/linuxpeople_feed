@@ -1,7 +1,7 @@
 ---
 title: 'Informazioni di sistema con windows'
 description: ""
-date: 2021-10-01 20:00
+date: 2021-10-02 13:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
