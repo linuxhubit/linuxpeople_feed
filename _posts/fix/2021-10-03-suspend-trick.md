@@ -8,11 +8,11 @@ author_github: PsykeDady
 tag: fix
 ---
 
-il pc non si sospende? potrebbe essere colpa dello stato S della cpu. 
-Per testare una possibile risoluione provate a disabilitarlo. Innanzitutto guardate quali device lo utilizzano: 
+Il pc non si sospende? potrebbe essere colpa dello stato S della cpu. 
+Per testare una possibile risoluzione provate a disabilitarlo. Innanzitutto guardate quali device lo utilizzano: 
 `cat /proc/acpi/wakeup`
 
-l'output potrebbe essere simile a questo: 
+L'output potrebbe essere simile a questo: 
 ```bash
 Device	S-state	  Status   Sysfs node
 GP17	  S4	*enabled   pci:0000:00:08.1
