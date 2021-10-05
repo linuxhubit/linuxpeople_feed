@@ -8,7 +8,7 @@ author_github: PsykeDady
 tag: cherry
 ---
 
-Dovete rsolvere una pull request o riallineare il vostro progetto con una patch più aggiornata dal repository originale? beh vediamo che approccio usare. 
+Dovete risolvere una pull request o riallineare il vostro progetto con una patch più aggiornata dal repository originale? beh vediamo che approccio usare.
 
 > ATTENZIONE: 
 > 
