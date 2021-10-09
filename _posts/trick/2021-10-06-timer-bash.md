@@ -1,5 +1,5 @@
 ---
-title: 'Titolo'
+title: 'Timer con bash'
 description: "descrizione post"
 date: 2021-10-06 11:00
 layout: post

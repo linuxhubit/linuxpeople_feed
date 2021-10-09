@@ -18,3 +18,4 @@ Questo creerà ad esempio **10 file**, tutti che si chiamano file e differiscono
 per il numero potete usare quest'espansione in ogni altro comando bash!
 
 > Non funziona su tutte le shell.
+
