@@ -1,7 +1,7 @@
 ---
 title: 'Alcune sostituzioni del terminale'
 description: ""
-date: 2021-10-09 16:00
+date: 2021-10-10 16:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
