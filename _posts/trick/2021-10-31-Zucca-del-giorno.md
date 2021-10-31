@@ -7,7 +7,7 @@ author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
 tag: trick
 ---
-
+👻🎃🧛🦇🧟‍♀️
 ```bash
 mkdir chalk-animation
 
