@@ -34,7 +34,7 @@ mkdir -p $HOME/.local/bin
 
 Ed aggiungiamola al path di sistema, aggiungendo questa riga al vostro [bashrc](https://feed.linuxpeople.org/posts/bashrc-zshrc-fishconfig/): 
 ```bash
- export PATH=$PATH:~/.bin:~/.local/bin
+ export PATH=$PATH:~/.local/bin
 ```
 
 Quindi scarichiamo l'eseguibile: 
