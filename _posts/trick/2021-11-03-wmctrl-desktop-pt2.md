@@ -15,11 +15,11 @@ tag: trick
 Abbiamo visto come usare wmctl per sapere su che desktop siamo, ma per cambiarlo? 
 Scriviamo :
 ```bash
-wmctrl -n numerodesktop 
+wmctrl -s numerodesktop 
 ```
 Ad esempio 
 ```bash
-wmctrl -n 2 
+wmctrl -s 2 
 ```
 Passerà al desktop numero 2. Ma come utilizzaro per dire "il desktop precedente" o "quello successivo" ? 
 Prossimo trucco :D
