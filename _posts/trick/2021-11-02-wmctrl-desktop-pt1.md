@@ -7,8 +7,8 @@ author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
 tag: trick
 ---
-
 [parte 2 - cambiare desktop](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt2)
+[parte 3 - desktop successivo e precedente](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt3)
 
 
 In che desktop siete? 
