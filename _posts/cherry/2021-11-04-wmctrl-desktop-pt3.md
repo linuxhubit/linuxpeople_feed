@@ -9,7 +9,9 @@ tag: cherry
 ---
 
 [parte 1 - introduzione wmctrl](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt1)  
+
 [parte 2 - cambiare desktop](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt2)  
+
 [parte 4 - cambiare numero dei desktop](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt4)  
 
 Ecco come potreste crearvi una funzionacina bash che vada al desktop precedente o successivo attraverso `wmctrl` : 
