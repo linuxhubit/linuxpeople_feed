@@ -8,9 +8,9 @@ author_github: PsykeDady
 tag: trick
 ---
 
-[parte 1 - introduzione wmctrl](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt1)
-[parte 2 - cambiare desktop](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt2)
-[parte 3 - desktop successivo e precedente](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt3)
+[parte 1 - introduzione wmctrl](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt1)  
+[parte 2 - cambiare desktop](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt2)  
+[parte 3 - desktop successivo e precedente](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt3)  
 
 usate wmctrl per determinare il numero dei desktop: 
 

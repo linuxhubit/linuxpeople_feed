@@ -8,9 +8,9 @@ author_github: PsykeDady
 tag: trick
 ---
 
-[parte 1 - introduzione wmctrl](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt1)
-[parte 3 - desktop successivo e precedente](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt3)
-[parte 4 - desktop successivo e precedente](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt4)
+[parte 1 - introduzione wmctrl](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt1)  
+[parte 3 - desktop successivo e precedente](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt3)  
+[parte 4 - cambiare numero dei desktop](https://feed.linuxpeople.org/posts/wmctrl-desktop-pt4)  
 
 
 Abbiamo visto come usare wmctl per sapere su che desktop siamo, ma per cambiarlo? 
