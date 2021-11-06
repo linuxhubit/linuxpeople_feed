@@ -14,9 +14,11 @@ qalc
 ```
 quindi iniziate a fare i vostri calcoletti, supporta tantissime funzioni matematiche:
 
-**fattoriale: 5!**
-**vettori: [1920,1080] * 2**
-**conversioni: 1Gbyte to Gbit**
+**fattoriale: 5!**  
+
+**vettori: [1920,1080] * 2**  
+
+**conversioni: 1Gbyte to Gbit**  
 
 e molto altro :D  
 
