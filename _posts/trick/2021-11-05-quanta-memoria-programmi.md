@@ -25,7 +25,7 @@ function howmem() {
         done;
         echo "tot %mem=$somma"
         totMem=$(free | awk -F ' ' '{if ( $1=="Mem:" )print$2}')
-        ris=$(LANG=C qalc -t "floor($somma*$totMem/(100*1024))")
+        ris=$(LANG=C qalc -s "precision 2" -t "$somma*$totMem/(100*1024*1024)")
         echo "Tot GB=$ris"
 }
 ```
