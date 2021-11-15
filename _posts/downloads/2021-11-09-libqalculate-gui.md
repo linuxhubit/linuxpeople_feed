@@ -1,7 +1,7 @@
 ---
-title: ''
+title: 'LibQalculate GUI'
 description: ""
-date: aaaa-mm-gg H:M
+date: 2021-11-09 11:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
