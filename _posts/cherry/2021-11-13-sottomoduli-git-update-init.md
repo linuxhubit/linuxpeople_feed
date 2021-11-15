@@ -1,6 +1,6 @@
 ---
-title: 'Titolo'
-description: "descrizione post"
+title: 'git submodule init'
+description: ""
 date: 2021-11-13 11:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
