@@ -1,7 +1,7 @@
 ---
 title: 'Sottomoduli git pt 4'
 description: "commit ricorsivo"
-date: 2021-01-12 11:00
+date: 2021-11-12 11:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
@@ -9,7 +9,8 @@ tag: cherry
 
 ---
 
-[sottomoduli pt3](https://feed.linuxpeople.org/posts/sottomoduli-git-pt1)
+[sottomoduli pt3](https://feed.linuxpeople.org/posts/sottomoduli-git-pt3)
+[sottomoduli pt5](https://feed.linuxpeople.org/posts/sottomoduli-git-pt5)
 
 
 
