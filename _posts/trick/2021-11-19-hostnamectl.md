@@ -9,10 +9,12 @@ tag: trick
 
 Qual'è il vostro hostname? Avete un laptop o un fisso? Come si chiama il produttore del vostro pc? ed il modello ?
 
-Ci sono tante domande importanti nella vita che non troveranno riposta.
+Ci sono tante domande importanti nella vita che non troveranno riposta.  
 Ma a quelle di sopra si può rispondere digitando: 
 
+```bash
 hostnamectl 
+```
 
 e premendo invio.
 Da un terminale
