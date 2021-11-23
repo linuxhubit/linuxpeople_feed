@@ -1,7 +1,7 @@
 ---
 title: 'Aggiornare il grub'
 description: ""
-date: 2021-mm-gg 11:00
+date: 2019-12-25 11:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
