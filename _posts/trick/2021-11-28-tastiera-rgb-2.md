@@ -1,7 +1,6 @@
 ---
-title: 'Titolo'
-description: "descrizione post"
-date: aaaa-mm-gg 11:00
+title: 'Tastiera RGB - Pt 2'
+date: 2021-11-28 11:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady

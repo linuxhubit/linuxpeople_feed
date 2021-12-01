@@ -1,5 +1,5 @@
 ---
-title: 'Titolo'
+title: 'Plasma screensaver e schermo da terminale'
 description: "descrizione post"
 date: 202-10-14 17:00
 layout: post
