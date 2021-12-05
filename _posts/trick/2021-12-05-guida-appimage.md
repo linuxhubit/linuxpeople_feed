@@ -9,7 +9,7 @@ tag: trick
 
 Ormai non faccio segreto del mio amore per il formato AppImage su linux, per me secondo solo al formato nativo delle distribuzioni. 
 
-Tra i tanti vantaggi che questi offrono, vi è il fatto che oltre ad avviare semplicemente il software abbiamo una serie di opzioni che possiamo attuare quando avviamo un appimage.
+Tra i tanti vantaggi che questi offrono, vi è il fatto che, oltre ad avviare semplicemente il software, abbiamo una serie di opzioni che possiamo attuare quando avviamo un appimage.
 
 Tutte le opzioni son disponibili scrivendo:
 ```bash
