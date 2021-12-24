@@ -12,25 +12,28 @@ Ormai non faccio segreto del mio amore per il formato AppImage su linux, per me 
 Tra i tanti vantaggi che questi offrono, vi è il fatto che, oltre ad avviare semplicemente il software, abbiamo una serie di opzioni che possiamo attuare quando avviamo un appimage.
 
 Tutte le opzioni son disponibili scrivendo:
+
 ```bash
 ./file.AppImage --appimage-help 
 ```
 
 Personalmente penso che le più utili siano quelle di poter estrarre il contenuto di un app image in una cartella, così: 
+
 ```bash
 ./file.AppImage --appimage-extract 
 ```
 
 E, ancora più utile, quella di poter creare una "configurazione portatile" della nostra app image simulando una finta home e una finta cartella delle configurazioni. ad esempio creiamo due nuove cartelle così:
+
 ```
 mkdir fintahome
 mkdir finteconf
 ```
 
 e quindi avviamo la nostra appimage così:
-```
+
+```bash
 HOME=fintahome XDG_CONFIG_HOME=finteconf ./file.AppImage --portable-home --portable-config 
 ```
 
-et voiltà. Se zippiamo tutto possiamo portare la nostra appimage con le stesse configurazioni ovunque. 
-
+et voiltà. Se zippiamo tutto possiamo portare la nostra appimage con le stesse configurazioni ovunque.
