@@ -1,5 +1,5 @@
 ---
-title: 'Una guida al'utilizzo delle AppImage'
+title: 'Una guida all\'utilizzo delle AppImage'
 date: 2021-12-05 11:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
