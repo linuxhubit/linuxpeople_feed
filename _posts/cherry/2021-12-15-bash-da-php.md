@@ -19,4 +19,4 @@ echo($result);
 ? >
 ```
 
-[Si può fare il contrario?](https://feed.linuxhub.org/posts/php-da-bash)
+[Si può fare il contrario?](https://feed.linuxpeople.org/posts/php-da-bash)

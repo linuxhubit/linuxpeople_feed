@@ -22,4 +22,4 @@ php -r 'comandi php diretti'
 
 Mi sfugge però il motivo per cui vorreste farlo
 
-[Si può fare il contrario?](https://feed.linuxhub.org/posts/bash-da-php)
+[Si può fare il contrario?](https://feed.linuxpeople.org/posts/bash-da-php)
