@@ -1,6 +1,6 @@
 ---
 title: 'Messaggi di debug su Bash con trap'
-description: "descrizione post"
+description: ""
 date: 2021-12-10 11:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
