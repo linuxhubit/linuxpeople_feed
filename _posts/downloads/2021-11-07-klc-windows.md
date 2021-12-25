@@ -8,11 +8,11 @@ author_github: PsykeDady
 tag: downloads
 ---
 
-**Nome software**   :  Keyboard layout Creator
-** OS di destinazione **: windows
-**Scopo principale** :  Cambiare layout di tastiera
-**Licenza** :  proprietaria
-**Costo** :  Gratis
+- **Nome software**   :  Keyboard layout Creator
+- **OS di destinazione**: windows
+- **Scopo principale** :  Cambiare layout di tastiera
+- **Licenza** :  proprietaria
+- **Costo** :  Gratis
 
 Questa edizione per i consigli per i download è speciale, poiché è dedicata a winzoz U.U 
 

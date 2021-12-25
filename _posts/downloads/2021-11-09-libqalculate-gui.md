@@ -8,10 +8,10 @@ author_github: PsykeDady
 tag: downloads
 ---
 
-**Nome software**   : libqalculate gtk e qt
-**Scopo principale** : Interfaccia gui di qalc (https://t.me/linuxpeople_feed/1442) 
-**Scritto in** : C++ e GTK+ / C++ e QT
-**Licenza** : GPLv2
+- **Nome software**   : libqalculate gtk e qt
+- **Scopo principale** : Interfaccia gui di qalc (https://t.me/linuxpeople_feed/1442) 
+- **Scritto in** : C++ e GTK+ / C++ e QT
+- **Licenza** : GPLv2
 
 Abbiamo già incontrato qalc, software per fare rapidamente dei calcoli, anche complessi, da terminale. 
 Ha in realtà diverse funzioni molto utili, tra cui la conversione di valute o unità di misura. 

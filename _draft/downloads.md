@@ -8,9 +8,10 @@ author_github: PsykeDady
 tag: downloads
 ---
 
-**Nome software**   : 
-**Scopo principale** : 
-**Scritto in** : 
-**Licenza** :  
-**Costo** : 
+- **Nome software**   : 
+- **Scopo principale** : 
+- **Scritto in** : 
+- **Licenza** :  
+- **Costo** : 
 
+TESTO

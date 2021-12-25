@@ -7,9 +7,10 @@ author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
 tag: downloads
 ---
-**Nome software**: Amusiz
-**Scopo principale**: Ascoltare la tua musica da Amazon Music
-**Scritto in**: python + gtk 
+
+- **Nome software**: Amusiz
+- **Scopo principale**: Ascoltare la tua musica da Amazon Music
+- **Scritto in**: python + gtk 
 
 Trovate [qui](https://github.com/mirkobrombin/Amusiz) il link al progetto.
 

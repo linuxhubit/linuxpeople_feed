@@ -15,4 +15,4 @@ Ma non è l'unica possibilità che avete, vi viene incontro infatti `package-kit
 sudo pacman -S packagekit packagekit-qt5
 ```
 
-et voilà :D 
+et voilà :D

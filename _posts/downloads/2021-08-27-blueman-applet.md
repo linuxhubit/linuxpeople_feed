@@ -8,10 +8,10 @@ author_github: PsykeDady
 tag: downloads
 ---
 
-**Nome software**   : Blueman bluetooth 
-**Scopo principale** : connessione bluetooth, disponibile nella traycon di sistema
-**Scritto in** : python e GTK + 
-**Licenza** : GPLv3
+- **Nome software**   : Blueman bluetooth 
+- **Scopo principale** : connessione bluetooth, disponibile nella traycon di sistema
+- **Scritto in** : python e GTK + 
+- **Licenza** : GPLv3
 
 Blueman è un software bluetooth manager che sfrutta bluez per connettervi via bluetooth. 
 Può anche avviare connessioni 3g/EDGE/GPRS se il vostro computer lo consente. Riconosce senza problema joystick mouse e cuffie! 
