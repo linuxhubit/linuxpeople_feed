@@ -14,13 +14,13 @@ ricordate [htmldoc](https://feed.linuxpeople.org/posts/weasyprint) ? se per qual
 pip install weasyprint 
 ```
 
-Dopo aver scaricato con wget la pagina : 
+Dopo aver scaricato con wget la pagina :  
 
 ```bash
 wget link.pagina.html 
 ```
 
-Utilizzatelo per trasformare la pagina in pdf: 
+Utilizzatelo per trasformare la pagina in pdf:  
 
 ```bash
 weasyprint pagina.html pagina.pdf 
