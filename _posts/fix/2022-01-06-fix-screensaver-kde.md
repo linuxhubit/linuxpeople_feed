@@ -5,7 +5,7 @@ date: 2022-01-06 11:00
 layout: post
 author: Davide Galati (in arte PsykeDady)
 author_github: PsykeDady
-tag: trick
+tag: fix
 ---
 
 Lo screen locker di kde vi si blocca quando lo riprendete dalla sospensione o ibernazione ?  
