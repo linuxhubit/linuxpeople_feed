@@ -16,4 +16,4 @@ at 00:01 -f <(echo "cvlc percorso/canzone")
 
 Tramite il flag `-f` stiamo dicendo ad at di eseguire i comandi da un file, il file lo creiamo al volo con `echo` in forma temporanea!
 
-beh al posto di cvlc possiamo ovviamente usare il player che più ci aggrada!
+beh al posto di `cvlc` possiamo ovviamente usare il player che più ci aggrada!
